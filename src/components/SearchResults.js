@@ -62,7 +62,7 @@ export default function SearchResults() {
                 <SearchCardItem 
                     src="https://images.pexels.com/photos/430216/pexels-photo-430216.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
                     title="Apartment Henrick de Keijserstraat"
-                    price="5000"
+                    price="1,300"
                     rooms="6"
                     area="45"
                     baths="2"
